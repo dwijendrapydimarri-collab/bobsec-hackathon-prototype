@@ -1,0 +1,9 @@
+[
+  {
+    "id": "demo",
+    "name": "Demo Tenant",
+    "type": "demo",
+    "createdAt": "2026-05-16T18:33:12.171Z",
+    "updatedAt": "2026-05-16T18:33:12.171Z"
+  }
+]
