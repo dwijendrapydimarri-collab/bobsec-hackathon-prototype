@@ -632,7 +632,7 @@ Everyone who deserves protection from scams.
 ![GitHub license](https://img.shields.io/github/license/your-org/bobsec)
 
 **Lines of Code**: 35,000+  
-**Contributors**: 10+  
+**Contributors**: 4
 **Organizations**: 100+ (target)  
 **Analyses Performed**: 1M+ (target)
 
